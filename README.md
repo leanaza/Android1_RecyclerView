@@ -15,8 +15,8 @@ Welcome to the **SpongeBob Character Search App**! This Android application allo
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Screenshot_20240605_155218.png" alt="Screenshot 1" width="200"/>
-  <img src="Screenshot_20240605_155243.png" alt="Screenshot 2" width="200"/>
+  <img src="‏‏לכידה.PNG" alt="Screenshot 1" width="200"/>
+  <img src="1222.PNG" alt="Screenshot 2" width="200"/>
 </div>
 
 ## Demo Video
