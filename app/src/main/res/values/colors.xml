@@ -1,0 +1,8 @@
+<resources>
+    <color name="primaryColor">#FFEB3B</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cardBackground">#F5F5F5</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+</resources>
